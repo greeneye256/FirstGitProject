@@ -39,5 +39,9 @@ public class Main {
         MyRectangle rectangle1 = new MyRectangle(heigth,length);
         System.out.println("Aria dreptunghiului dumneavoastra este: " + rectangle1.calulateArea());
 
+System.out.println("Aria dreptunghiului dumneavoastra este: " + rectangle1.calulateArea());
+System.out.println("Aria dreptunghiului dumneavoastra este: " + rectangle1.calulateArea());
+System.out.println("Aria dreptunghiului dumneavoastra este: " + rectangle1.calulateArea());
+
     }
 }
