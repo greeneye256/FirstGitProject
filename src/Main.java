@@ -30,7 +30,7 @@ public class Main {
                 sumOfAreas+=rectangle.calulateArea();
             }
         }
-        System.out.println("Suma ariilor dreptunghiurilor care au inltimea mai mare ca lungimea este: " + sumOfAreas);
+        System.out.println("Suma ariilor dreptunghiurilor care au inltimea mai mare ca lungimea este egala cu: " + sumOfAreas);
         System.out.print("Introduceti inaltimea: ");
         int heigth = scn.nextInt();
         System.out.print("Introduceti luncgimea: ");
